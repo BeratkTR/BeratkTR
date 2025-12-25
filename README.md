@@ -33,10 +33,10 @@ I am a Computer Engineering student at Sakarya University, focused on building m
 
 ---
 
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeratkTR&theme=gruvbox) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeratkTR&theme=gruvbox) |
+|:-----:|:------:|
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=BeratkTR&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BeratkTR&theme=gruvbox) | ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BeratkTR&theme=gruvbox) |
-|:-----:|:------:|
 
